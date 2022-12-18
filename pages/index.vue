@@ -2,6 +2,11 @@
   <div>
     <main-video />
     <Intersection />
+    <!-- study 01 -->
+    <space />
+    <!-- study 02 -->
+    <space />
+    <!-- study 03 -->
     <space />
   </div>
 </template>
