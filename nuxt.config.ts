@@ -6,7 +6,7 @@ export default {
   head: {
     title: "clone-nuxt",
     htmlAttrs: {
-      lang: "ko",
+      lang: "kr",
     },
     meta: [
       { charset: "utf-8" },
@@ -15,6 +15,9 @@ export default {
       { name: "format-detection", content: "telephone=no" },
     ],
     link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
+  },
+  dir: {
+    layouts: 'layouts',
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
